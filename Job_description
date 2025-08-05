@@ -1,0 +1,9 @@
+portfolio-tech-recruiter/
+│
+├── README.md
+├── 1-Job_Descriptions/
+│   └── job_description_desenvolvedor_backend.md
+├── 2-Estrategias_Hunting/
+│   └── estrategias_de_hunting.md
+├── 3-Pareceres_Tecnicos/
+│   └── modelo_parecer_entrevista.md
